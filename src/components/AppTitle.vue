@@ -17,9 +17,11 @@
 
   <header>
 
-    <h1>
-      La mia prima App con Vite!!!
-    </h1>
+    <div>
+      <h1>
+        La mia prima App con Vite!!!
+      </h1>
+    </div>
 
   </header>
 
